@@ -4,6 +4,7 @@ git config --global user.name 'David Rorick'
 git config --global user.email 'david9991@hotmail.com'
 
 git status
+
 git add index.html
 git add .
 
@@ -21,7 +22,9 @@ git checkout newBranchName
 git merge newBranchName
 
 Create branch on GitHub
-git push
+git remote add origin https://github.com/Stuart9991/test-text-1.git
+git push -u origin master
+
 git pull
 
 git clone http:// .......
