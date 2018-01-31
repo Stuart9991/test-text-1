@@ -1,0 +1,34 @@
+
+git init
+git config --global user.name 'David Rorick'
+git config --global user.email 'david9991@hotmail.com'
+
+git status
+git add index.html
+git add .
+
+git commit
+git commit -m 'Commit Text' 
+
+Create file .gitignore
+	Add file name to ingnore file
+		i.e. log.txt
+		i.e. /dir2
+		
+git branch newBranchName
+git checkout newBranchName
+
+git merge newBranchName
+
+Create branch on GitHub
+git push
+git pull
+
+git clone http:// .......
+
+	
+
+
+
+
+
